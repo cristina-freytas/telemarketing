@@ -49,6 +49,7 @@ def main():
                        initial_sidebar_state='expanded')
 
     # Título principal da aplicação
+    st.write('# Aluna: Cristina Freitas')
     st.write('# Telemarketing analisys')
   
     st.markdown("---")
